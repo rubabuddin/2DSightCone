@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GuideScripts/SightConeMod.cs">
+    <Files>
+      <File FileName="Assets/GuideScripts/MovePlayer.cs" Line="23" Column="24" />
+      <File FileName="Assets/GuideScripts/SightConeMod.cs" Line="26" Column="29" />
+      <File FileName="../IIP/Assets/CubeScript.cs" Line="34" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
